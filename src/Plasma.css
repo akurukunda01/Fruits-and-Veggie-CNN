@@ -1,0 +1,6 @@
+/* Minimal styles used by plasma canvas */
+.plasma-container canvas{
+  display:block;
+  width:100%;
+  height:100%;
+}
