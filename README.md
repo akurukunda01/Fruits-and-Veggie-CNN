@@ -15,3 +15,5 @@ We will be using the "moltean/fruits" dataset from Kaggle, which contains a larg
 3.  **Training**: Train both models on the prepared training dataset, monitoring their performance over epochs.
 4.  **Testing**: Evaluate the trained models on the unseen test dataset to assess their generalization ability and compare their performance.
 5.  **Prediction**: Use the trained model to predict the class of a single image.
+
+In this repo is the Collab notebook, as well as files for a react front end, and a flask backend to go along with it.
