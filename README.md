@@ -17,3 +17,7 @@ We will be using the "moltean/fruits" dataset from Kaggle, which contains a larg
 5.  **Prediction**: Use the trained model to predict the class of a single image.
 
 In this repo is the Collab notebook, as well as files for a react front end, and a flask backend to go along with it.
+
+
+https://github.com/user-attachments/assets/0e7903a1-e2c9-43b4-891a-9549d2c313e9
+
